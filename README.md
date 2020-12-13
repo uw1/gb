@@ -6,9 +6,7 @@ description: st
 
 int
 
-{% page-ref page="./" %}
-{% page-ref page="./test" %}
-{% page-ref page="test.md" %}
+{% page-ref page="./" %} {% page-ref page="./test" %}
 
-[[test]]
-
+[test](./test)
+[test](test)
