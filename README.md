@@ -8,5 +8,6 @@ int
 
 {% page-ref page="./" %}
 
-
+[[test.md]]
+[[test]]
 
