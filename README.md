@@ -7,7 +7,7 @@ description: st
 int
 
 {% page-ref page="./" %}
+{% page-ref page="test" %}
 
-[[test.md]]
 [[test]]
 
